@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+i9bet: Nhà cái uy tín hàng đầu với đa dạng trò chơi cá cược hấp dẫn - i9bett.blog
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`i9bet <https://i9bett.blog/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu Châu Á, được cấp phép hoạt động bởi tổ chức PAGCOR uy tín. Với hơn 10 năm kinh nghiệm trong lĩnh vực cá cược, i9bet đã khẳng định được vị thế của mình trên thị trường bằng cách cung cấp cho người chơi những dịch vụ cá cược chất lượng cao, an toàn và minh bạch. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 9 51, Tổ 32, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0996505611. 
 
-Contents
---------
+Email: info@i9bett.blog.
 
-.. toctree::
+Website: https://i9bett.blog/
 
-   usage
-   api
+#i9bet #i9bettblog #nhacaii9bet #trangchui9bet
